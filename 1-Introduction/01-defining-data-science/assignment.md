@@ -27,5 +27,5 @@ Fill in the following table (substitute suggested problem domains for your own o
 ## Rubric
 
 Exemplary | Adequate | Needs Improvement
---- | --- | -- |
+--- | --- | -- |..
 One was able to identify reasonable data sources, ways of storing data and possible decisions/insights for all problem domains | Some of the aspects of the solution are not detailed, data storage is not discussed, at least 2 problem domains are described | Only parts of the data solution are described, only one problem domain is considered.
